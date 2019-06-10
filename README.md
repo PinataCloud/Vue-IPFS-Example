@@ -1,4 +1,4 @@
-# vue-cloudflare-demo
+# vue-js-ipfs-Example
 
 ## Project setup
 ```

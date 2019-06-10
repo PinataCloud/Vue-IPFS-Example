@@ -1,4 +1,4 @@
-# vue-js-ipfs-Example
+# IPFS Compatible VueJS Template
 
 ## Project setup
 ```
